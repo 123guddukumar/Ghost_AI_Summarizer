@@ -41,7 +41,7 @@ cd ai-summarizer
 
 ## 📜 APIs Used
 ##### Generative Language API: Generates natural summaries of input text.
-#####Google Translate API: Provides multilingual support for summaries.
+##### Google Translate API: Provides multilingual support for summaries.
 
 ## 🤝 Contributing
 ##### We welcome contributions! To contribute:
