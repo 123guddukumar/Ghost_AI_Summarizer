@@ -56,5 +56,8 @@ cd ai-summarizer
 ##### This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📝 Feedback and Support
-##### Have questions or feedback? Feel free to open an issue in the repository or contact us at: your-guddukrbth0123@gmail.com.com.
+##### Have questions or feedback? Feel free to open an issue in the repository or contact us at: guddukrbth0123@gmail.com.com.
+
+## InstaGram:
+https://instagram.com/123divyansuverma
 
