@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Summarizer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Ghost AI Summarizer</h2>
+    <textarea id="inputText" placeholder="Enter text to summarize"></textarea>
+    <div class="btn">
+        <button id="summarizeBtn">Summarize</button>
+        <button id="translateBtn">Translate</button>
+    </div>
+    <div id="languageList" style="display:none;">
+        <label for="languageSelect">Choose a language:</label>
+        <select id="languageSelect">
+            <option value="es">Spanish</option>
+            <option value="fr">French</option>
+            <option value="de">German</option>
+            <option value="hi">Hindi</option>
+            <option value="zh-cn">Chinese (Simplified)</option>
+        </select>
+        <button id="confirmTranslateBtn">Translate</button>
+    </div>
+    <div id="output">
+        <h3>Summary:</h3>
+        <p id="summaryText">____</p>
+        <h3>Translation:</h3>
+        <p id="translationText">___</p>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
